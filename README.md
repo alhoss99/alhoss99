@@ -2,7 +2,7 @@
 <h3 align="center">aFull-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alhoss99&label=Profile%20views&color=0e75b6&style=flat" alt="alhoss99" /> </p>
-<img src="https://static.wixstatic.com/media/c5d610_f596d09c4f6a4192b61818659831f596~mv2.jpg/v1/fill/w_484,h_484,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/programmer-man-working-desktop-computer-desk-illustration-picture-ai-generated-image_21064.jpg" alt="alhoss99"  width="600" height="400"/>
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="alhoss99"  width="600" height="400"/>
 - 🌱 I’m currently learning **•frappe framework •Flutter**
 
 - 📫 How to reach me **alhoss100@gmail.com**
